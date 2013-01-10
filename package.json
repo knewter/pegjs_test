@@ -1,0 +1,12 @@
+{
+  "author": "Josh Adams",
+  "name": "pegjs_test",
+  "version": "0.0.1",
+  "dependencies": {
+    "pegjs": "git://github.com/dmajda/pegjs.git#master"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
