@@ -3,7 +3,7 @@
   "name": "pegjs_test",
   "version": "0.0.1",
   "dependencies": {
-    "pegjs": "git://github.com/dmajda/pegjs.git#master"
+    "pegjs": "0.7.0"
   },
   "devDependencies": {
     "mocha": "*",
